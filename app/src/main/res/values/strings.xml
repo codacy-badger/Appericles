@@ -6,4 +6,9 @@
     <string name="log_in">LOG IN</string>
     <string name="sign_up">SIGN UP</string>
     <string name="logo">Dig Din ®</string>
+    <string name="emaillogin">VitasDeus@umburaco.com</string>
+    <string name="pass">**********</string>
+    <string name="username">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="esqueceu_sua_senha">Esqueceu sua senha ?</string>
 </resources>
