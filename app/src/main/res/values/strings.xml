@@ -11,4 +11,19 @@
     <string name="username">Usuário</string>
     <string name="password">Senha</string>
     <string name="esqueceu_sua_senha">Esqueceu sua senha ?</string>
+    <string name="repita_sua_senha">Confirme sua senha</string>
+    <string name="pergunta_secreta">Pergunta secreta</string>
+    <string name="resposta">Resposta</string>
+    <string name="codigo">Código</string>
+    <string name="secreto_codigo">Secreto, apenas para membros do péricles</string>
+
+    <string-array name="perguntas_secretas_array">
+        <item>Selecione</item>
+        <item>Como provar para os pais que suplemento não é bomba ?</item>
+        <item>Beibe beibe do biruleibe leibe ?</item>
+        <item>Afonso é ?</item>
+        <item>Quem colocou esse ventilador rosa no teto ?</item>
+        <item>Se eu tomar glutamina vou ficar com o gluteo igual as mina ?</item>
+        <item>Eu cavo, tu cavas, ele cava, nos cavamos, vos cavais, eles cavam</item>
+    </string-array>
 </resources>
