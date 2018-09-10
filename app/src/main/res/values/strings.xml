@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Appericles</string>
+    <string name="bem_vindo">Bem vindo ao Péricles</string>
+    <string name="login">Login</string>
+    <string name="imagem_do_usuario">Imagem do usuario</string>
+    <string name="log_in">LOG IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="logo">Dig Din ®</string>
+</resources>
