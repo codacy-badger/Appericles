@@ -16,6 +16,11 @@
     <string name="resposta">Resposta</string>
     <string name="codigo">Código</string>
     <string name="secreto_codigo">Secreto, apenas para membros do péricles</string>
+    <string name="vez_da_agua">Vez da água</string>
+    <string name="anuncio_agua">A vez de pagar a água é do:</string>
+    <string name="vinicius">Vinicius</string>
+    <string name="paguei">Paguei</string>
+    <string name="mandar_alerta">Mandar Alerta</string>
 
     <string-array name="perguntas_secretas_array">
         <item>Selecione</item>
