@@ -21,6 +21,13 @@
     <string name="vinicius">Vinicius</string>
     <string name="paguei">Paguei</string>
     <string name="mandar_alerta">Mandar Alerta</string>
+    <string name="dividas">Dividas</string>
+    <string name="a_receber">A receber</string>
+    <string name="a_pagar">A pagar</string>
+    <string name="erik">Erik</string>
+    <string name="rahel">Rahel</string>
+    <string name="thomas">Thomas</string>
+    <string name="novo">Novo</string>
 
     <string-array name="perguntas_secretas_array">
         <item>Selecione</item>

@@ -18,7 +18,8 @@
         </activity>
         <activity android:name=".Login_enter" />
         <activity android:name=".Sign_up" />
-        <activity android:name=".Agua"></activity>
+        <activity android:name=".Agua" />
+        <activity android:name=".Dividas"></activity>
     </application>
 
 </manifest>
